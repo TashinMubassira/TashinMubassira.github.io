@@ -12,7 +12,7 @@ title                    : "Taseen Mubassira"
 title_separator          : "-"
 name                     : &name "Taseen Mubassira"
 description              : &description "Learning about life"
-url                      : https://tashinmubassira.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tashinmubassira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TashinMubassira/TashinMubassira.github.io"
 
