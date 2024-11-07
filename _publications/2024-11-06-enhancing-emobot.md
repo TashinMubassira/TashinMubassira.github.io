@@ -9,5 +9,3 @@ venue: 'NSysS 2024'
 paperurl: 
 authors: '<b>Taseen Mubassira</b>, Mehedi Hasan, Dr. Jannatun Noor Mukta, Dr. A. B. M. Alim Al Islam'
 ---
-
-Details coming soon.
