@@ -12,7 +12,7 @@ title                    : "Taseen Mubassira"
 title_separator          : "-"
 name                     : &name "Taseen Mubassira"
 description              : &description "Learning about life"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tashinmubassira.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TashinMubassira/TashinMubassira.github.io"
 
@@ -48,9 +48,9 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : # Username
   facebook         : # Username
   instagram        : # Username
-  linkedin         : # Username
   twitter          : # Username for X / Twitter
   bluesky          : # Username
   flickr           : # Username
