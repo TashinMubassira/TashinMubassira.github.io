@@ -32,7 +32,9 @@
       {% elsif post.permalink == 'none' %}
         {{ title }}
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.permalink }}">{{ title }}</a>
+      <!-- {% else %} -->
+        <!-- <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
       {% endif %}
     </h2>
     
