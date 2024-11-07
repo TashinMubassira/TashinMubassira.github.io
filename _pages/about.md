@@ -11,7 +11,7 @@ My primary research interests lie at the intersection of **Human-Computer Intera
 
 Recent Research Areas:
 - Human-centered computing, Design and evaluation methods, Usability testing: [\[NSysS 2024\]](https://cse.buet.ac.bd/nsyss2024/)
-- Human Computer Interaction, Interaction Techniques, Gestural Inputs: [\[EAI Mobiquitous 2023\]](https://mobiquitous.eai-conferences.org/2023/)
+- Interaction Techniques, Gestural Inputs, Mental Health: [\[EAI Mobiquitous 2023\]](https://mobiquitous.eai-conferences.org/2023/)
 
 
 ## Recent News
