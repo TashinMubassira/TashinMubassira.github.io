@@ -1,5 +1,5 @@
 ---
-title: "Reading the Mind’s Eye: Detecting Trauma-Vulnerability in Individuals by Analyzing Attention Through Eye-Tracking"
+title: "Reading the Minds Eye: Detecting Trauma-Vulnerability in Individuals by Analyzing Attention Through Eye-Tracking"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
