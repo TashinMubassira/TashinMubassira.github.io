@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-### Bangladesh University of Engineering and Technology
-#### B.Sc. in Computer Science and Engineering
+**Bangladesh University of Engineering and Technology**
+
+*B.Sc. in Computer Science and Engineering*
 
 <style> 
     table { 
@@ -25,7 +26,7 @@ Education
 </style>
 
 Notable Courses:
-<table border="0">
+<table>
   <tr>
       <td>CSE 305: Computer Architecture</td>
       <td>CSE 309: Compiler</td>
