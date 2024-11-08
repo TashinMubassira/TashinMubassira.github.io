@@ -12,11 +12,7 @@ main:
     url: /research_experience/    
   
   - title: "Talks"
-    url: /talks/    
-
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /talks/
     
   - title: "CV"
     url: /cv/
