@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my cv in pdf version from [here]("../files/cv.pdf")
+You can view my cv in pdf version from [here]("https://tashinmubassira.github.io/files/cv.pdf")
