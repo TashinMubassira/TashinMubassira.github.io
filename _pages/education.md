@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-Education
-======
 **Bangladesh University of Engineering and Technology (BUET)** \
 *B.Sc. in Computer Science and Engineering* \
 April 2018 - May 2023
