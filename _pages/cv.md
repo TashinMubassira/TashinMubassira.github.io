@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Link to pdf file needs to go here
+You can view my cv in pdf version from [here]("../files/cv.pdf")
