@@ -14,8 +14,14 @@ main:
   - title: "Conferences & Talks"
     url: /talks/
 
+  - title: "Work Experience"
+    url: /work_experience/
+
   - title: "Education"
     url: /education/
+
+  - title: "Honors & Awards"
+    url: /awards/
 
   - title: "CV"
     url: /cv/
