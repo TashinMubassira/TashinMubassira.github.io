@@ -164,7 +164,7 @@ Technical Skills
 - **Libraries:** Sklearn, Pandas, Matplotlib, Seaborn
 
 
-Publications
+<!-- Publications
 ======
   <ul>
   {% for post in site.publications reversed %}
@@ -180,4 +180,4 @@ Research Experience
     <li> {{ post.title }} </li>
   {% endfor %}
   </ul>
-
+ -->
