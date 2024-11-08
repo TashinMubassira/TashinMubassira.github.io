@@ -13,7 +13,7 @@ Education
 ======
 **Bangladesh University of Engineering and Technology (BUET)** \
 *B.Sc. in Computer Science and Engineering* \
-March 2018 - June 2024
+April 2018 - May 2023
 
 
 <style> 
@@ -102,51 +102,82 @@ Notable Courses:
   </tr>
 </table>
 
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Therap Bd Ltd** \
+*Database Engineer* \
+August 2023 - Current
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Therap delivers Software as a Service (SaaS) to government and private organizations worldwide, specifically across the USA and Canada, that support individuals with intellectual and developmental disabilities. In this role, I carry out the following responsibilities:
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Custom Reports:** I created SQL queries to produce health data reports and optimized and tuned their performance by reviewing and analyzing user requirements.
+- **Patching:** I applied the latest patches to single Instance, container oracle databases, and RAC systems.
+- **R&D:** I conducted extensive research and development on the latest versions of Goldengate, SQLTxplain, and DBSAT. I also performed R&D improving the performance, security, and functionality of Oracle’s database products and tools such as TDE, database partitioning, in-memory processing and oracle audit vault.
+- **Scripting:** I designed and implemented scripts in Shell, Python, and Java to automate various DBA tasks.
+- **Training:** I mentored junior engineers by thoroughly explaining different modules of the software and visually illustrating the database structure and functionality.
+
   
-Skills
+Conferences & Talks
+=====
+**[EAI MobiQuitous 2023 - 20th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services](https://mobiquitous.eai-conferences.org/2023/)** \
+*RMIT University, Melbourne, Australia* \
+November 14-17, 2023
+
+Presented our research accepted in the conference alongside my co-author
+
+**[NSysS 2023 - 10th International Conference on Networking, Systems and Security](https://cse.buet.ac.bd/nsyss2023/)** \
+*BUET, Dhaka, Bangladesh* \
+December 21-23, 2023
+
+Presented our poster accepted in the conference alongside my co-author
+
+**1st International Science Conference for Women - 2023** \
+*Pan Pacific Sonargaon, Dhaka, Bangladesh* \
+February 15-16, 2023
+
+Presented my poster accepted in the conference
+
+
+Honors & Awards
+=====
+- [2018] **BUET Admission Test Merit Scholarship**
+- [2017] **National Higher Secondary School Merit Scholarship by the Government of Bangladesh** \
+*Stood 2nd among the girls in Dhaka Board. Talent Pool Scholarship, a scholarship for excellent result in Bangladesh’s higher secondary school exams*
+- [2015] **National Secondary School Merit Scholarship by the Government of Bangladesh** \
+*Stood 5th among the girls in Dhaka Board. Talent Pool Scholarship, a scholarship for excellent result in Bangladesh's secondary school exams.*
+- [2009] **Primary School Merit Scholarship by the Government of Bangladesh** \
+*Talent Pool Scholarship*
+
+Other Experiences
+=====
+- Active Member of [Bangladeshi Women in Computer Science and Engineering (BWCSE)](https://bwcse.wordpress.com/)
+- Participated in Bangladesh Math Olympiad (BDMO) several times
+- Mentored two undergraduate students in research projects
+- Tutored 9th to 12th grades students for six years
+
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Languages:** C/C++, Python, Java, Javascript, MySQL, x86 Assembly, Bison/Flex, Bash
+- **Frameworks:** Oracle DBMS, PyTorch, TensorFlow, Docker, Django, NodeJs, React, React-Native, JavaFx, Firebase,  NS3, xv6, Git, LaTeX, Wireshark
+- **Libraries:** Sklearn, Pandas, Matplotlib, Seaborn
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  <ul>
+  {% for post in site.publications reversed %}
+    <li> {{ post.title }} </li>
+  {% endfor %}
+  </ul>
+
+
 Research Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+  {% for post in site.teaching reversed %}
+    <li> {{ post.title }} </li>
+  {% endfor %}
+  </ul>
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
