@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-**Bangladesh University of Engineering and Technology (BUET)** <div style="text-align:right;">March 2018 - June 2024</div>
+**Bangladesh University of Engineering and Technology (BUET)** \
+March 2018 - June 2024
 
 *B.Sc. in Computer Science and Engineering*
 
